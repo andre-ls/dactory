@@ -1,6 +1,7 @@
 # Table Structures
 
 - Orders
+    - Order Serial Number (Primary Key)
     - Product Model
     - Code
     - Color
@@ -9,19 +10,21 @@
     - Current Step
 
 - Guitar Models
-    - Name
-    - Type (Eletric Guitar, Acoustic Guitar, Bass Guitar)
+    - Model ID (Primary Key)
+    - Name 
+    - Type
     - Body Wood
     - Neck Wood
     - Number of Strings
-    - Status (Active/Inactive)
+    - Status
 
 - Models Material List
-    - Model
-    - Material
+    - Model ID (Composite Primary Key)
+    - Material ID (Composite Primary Key)
     - Quantity
 
 - Customers
+    - Customer ID (Primary Key)
     - Name
     - Phone Number
     - Email
@@ -31,6 +34,7 @@
     - Zip Code
 
 - Suppliers
+    - Supplier ID (Primary Key)
     - Name
     - Street Address
     - City
@@ -38,20 +42,22 @@
     - Zip Code
     - Phone Number
     - Email
-    - Status(Active/Innactive)
+    - Status
 
 - Materials
+    - Material ID (Primary Key)
     - Name
     - Description
     - Manufacturer
     - Supplier
-    - Status (Active/Innactive)
+    - Statu
 
 - Inventory
-    - Material
+    - Material ID (Primary Key)
     - Quantity
     
 - Employees
+    - Employee ID (Primary Key)
     - Name
     - Phone Number
     - Street Address
@@ -60,10 +66,12 @@
     - Zip Code
     - Email
     - Sector
-    - Status (Active/Innactive)
+    - Status
     
 - Production Steps
+    - Step ID (Primary Key)
     - Name
     - Description
-    - Status (Active/Innactive)
+    - Order Number
+    - Status
 
