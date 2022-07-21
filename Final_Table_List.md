@@ -8,6 +8,10 @@
     - Type: Data
     - Description: All the Guitar Models crafted by the Factory at any point in time. Not only the table keep a centralized register of all important details of each model, but also, if combined with other tables, can allow specific calculations over the Inventory.
 
+## Models Material List
+    - Type: Data
+    - Description: All the material list and their specific quantities to craft a specific model at the Factory. This information is important to document and manage the amount of material being used to craft each model and help to keep the Inventory properly supplied to handle the production.
+
 ## Customers
     - Type: Data
     - Description: All contact and address information of all the Factory Customers, which are the ways of maintaining them informed about their orders and knowing where to deliver the fresh new guitars.

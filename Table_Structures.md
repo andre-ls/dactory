@@ -1,4 +1,4 @@
-# Preliminary Field List
+# Table Structures
 
 - Orders
     - Product Model
@@ -6,34 +6,46 @@
     - Color
     - Shield Color
     - Customer
-    - Factoring Step
+    - Current Step
 
-- Product Model
+- Guitar Models
     - Name
     - Type (Eletric Guitar, Acoustic Guitar, Bass Guitar)
     - Body Wood
     - Neck Wood
     - Number of Strings
-    - Materials Needed
+    - Status (Active/Inactive)
+
+- Models Material List
+    - Model
+    - Material
+    - Quantity
 
 - Customers
     - Name
     - Phone Number
     - Email
-    - Address
+    - Street Address
+    - City
+    - State 
+    - Zip Code
 
 - Suppliers
     - Name
-    - Material Supplied
-    - Address
+    - Street Address
+    - City
+    - State 
+    - Zip Code
     - Phone Number
     - Email
+    - Status(Active/Innactive)
 
 - Materials
     - Name
     - Description
     - Manufacturer
-    - Suppliers
+    - Supplier
+    - Status (Active/Innactive)
 
 - Inventory
     - Material
@@ -42,11 +54,16 @@
 - Employees
     - Name
     - Phone Number
-    - Address
+    - Street Address
+    - City
+    - State 
+    - Zip Code
     - Email
     - Sector
+    - Status (Active/Innactive)
     
-- Factoring Proccess Steps
+- Production Steps
     - Name
     - Description
+    - Status (Active/Innactive)
 
