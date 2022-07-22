@@ -2,9 +2,8 @@
 
 - Orders
     - Order Serial Number (Primary Key)
-    - Product Model
-    - Code
-    - Color
+    - Guitar Model
+    - Guitar Color
     - Shield Color
     - Customer
     - Current Step
@@ -17,6 +16,16 @@
     - Neck Wood
     - Number of Strings
     - Status
+
+- Guitar Colors
+    - Color ID (Primary Key)
+    - Name
+    - Description
+
+- Shield Colors
+    - Shield Color ID (Primary Key)
+    - Name
+    - Description
 
 - Models Material List
     - Model ID (Composite Primary Key)
