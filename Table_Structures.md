@@ -14,6 +14,7 @@
     - Type
     - Body Wood
     - Neck Wood
+    - Fingerboard Wood
     - Number of Strings
     - Status
 
