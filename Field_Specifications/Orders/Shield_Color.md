@@ -2,10 +2,10 @@
 
 ## General Elements
 
-- Field Name: Guitar Color
+- Field Name: Shield Color
 - Parent Table: Orders
-- Shared By: Guitar Colors
-- Description: Color of the Body of the Guitar being produced. It contains an ID of the respective color on the Guitar Colors Table.
+- Shared By: Shield Colors
+- Description: Color of the Shield of the Guitar being produced. It contains an ID of the respective color on the Shield Colors Table.
 
 ## Physical Elements
 
@@ -22,5 +22,5 @@
 - Null Support: No Nulls
 - Values Entered By: User
 - Required Value: Yes
-- Range of Values: Any ID of the Guitar Colors Table.
+- Range of Values: Any ID of the Shield Colors Table.
 - Edit Rule: Enter Now, Edits Not Allowed

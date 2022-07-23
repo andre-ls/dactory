@@ -16,8 +16,8 @@
 
 ## Logical Elements
 
-- Key Type: Non
-- Key Structure: 
+- Key Type: Foreign
+- Key Structure: Sinple
 - Uniqueness: Non-Unique
 - Null Support: No Nulls
 - Values Entered By: User
