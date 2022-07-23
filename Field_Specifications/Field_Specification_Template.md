@@ -4,10 +4,7 @@
 
 - Field Name:
 - Parent Table:
-- Alias(es):
 - Shared By:
-- Specification Type: Unique, Generic, Replica
-- Source Specification:
 - Description:
 
 ## Physical Elements

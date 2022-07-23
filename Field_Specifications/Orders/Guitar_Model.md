@@ -4,10 +4,7 @@
 
 - Field Name: Guitar Model
 - Parent Table: Orders
-- Alias(es):
 - Shared By: Guitar Models
-- Specification Type: Unique 
-- Source Specification: 
 - Description: Guitar Model being produced for the order. It contains the ID of the Model according to the Guitar Models table, where further details of it can be found.
 
 ## Physical Elements

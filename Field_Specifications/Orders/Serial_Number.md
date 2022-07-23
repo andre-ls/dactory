@@ -4,10 +4,7 @@
 
 - Field Name: Serial Number
 - Parent Table: Orders
-- Alias(es): 
 - Shared By: 
-- Specification Type: Unique
-- Source Specification:
 - Description: An Alphanumeric Code to Uniquely identify every guitar crafted by the Factory. It is assigned at the beggining of the Production Line and used all along it to identify each order.
 
 ## Physical Elements
