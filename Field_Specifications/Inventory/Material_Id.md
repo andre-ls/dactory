@@ -3,8 +3,8 @@
 ## General Elements
 
 - Field Name: Material ID
-- Parent Table: Materials
-- Shared By: Models Material List, Inventory
+- Parent Table: Inventory
+- Shared By: Material
 - Description: An Numeric Code to Uniquely identify every material used at the Factory.
 
 ## Physical Elements
@@ -16,11 +16,11 @@
 
 ## Logical Elements
 
-- Key Type: Primary Key
-- Key Structure: Single Primary Key
+- Key Type: Primary Key, Foreign Key
+- Key Structure: Single
 - Uniqueness: Unique
 - Null Support: No Nulls
-- Values Entered By: System
+- Values Entered By: User
 - Required Value: Yes
-- Range of Values: 
-- Edit Rule: Enter Now, Edits Not Allowed
+- Range of Values: Any Material ID present at the Materials Table.
+- Edit Rule: Enter Now, Edits Allowed
