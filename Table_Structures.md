@@ -77,7 +77,7 @@
     - State 
     - Zip Code
     - Email
-    - Sector
+    - Production Step
     - Status
     
 - Production Steps
