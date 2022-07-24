@@ -35,7 +35,8 @@
 
 - Customers
     - Customer ID (Primary Key)
-    - Name
+    - First Name
+    - Last Name
     - Phone Number
     - Email
     - Street Address
@@ -68,7 +69,8 @@
     
 - Employees
     - Employee ID (Primary Key)
-    - Name
+    - First Name
+    - Last Name
     - Phone Number
     - Street Address
     - City
