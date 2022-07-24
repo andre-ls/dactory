@@ -61,7 +61,7 @@
     - Description
     - Manufacturer
     - Supplier
-    - Statu
+    - Status
 
 - Inventory
     - Material ID (Primary Key)
