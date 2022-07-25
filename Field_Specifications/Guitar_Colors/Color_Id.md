@@ -5,7 +5,7 @@
 - Field Name: Color ID
 - Parent Table: Guitar Colors
 - Shared By: Guitar Models
-- Description: An Numeric Code to Uniquely identify every Guitar Body Color use in the Factory.
+- Description: An Numeric Code to Uniquely identify every Guitar Body Color used in the Factory.
 
 ## Physical Elements
 

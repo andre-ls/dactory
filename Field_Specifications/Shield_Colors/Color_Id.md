@@ -5,7 +5,7 @@
 - Field Name: Color ID
 - Parent Table: Shield Colors
 - Shared By: Guitar Models
-- Description: An Numeric Code to Uniquely identify every Guitar Shield Color use in the Factory.
+- Description: An Numeric Code to Uniquely identify every Guitar Shield Color used in the Factory.
 
 ## Physical Elements
 

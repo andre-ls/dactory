@@ -5,7 +5,7 @@
 - Field Name: Name
 - Parent Table: Shield Colors
 - Shared By: 
-- Description: Name of the Guitar Shield's Color.
+- Description: Name of the Guitar Shield's Color. It should be the main way of referencing Shield Colors, specially outside the Factory.
 
 ## Physical Elements
 
