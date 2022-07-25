@@ -5,7 +5,7 @@
 - Field Name: Manufacturer
 - Parent Table: Materials
 - Shared By: 
-- Description: Name of the Manufacturer of the Material. This field is important since some Materials are not supplied directly by the Facturer.
+- Description: Name of the Manufacturer of the Material. It should be used as additional reference of the Material when ordering from the Supplier.
 
 ## Physical Elements
 

@@ -5,7 +5,7 @@
 - Field Name: Name
 - Parent Table: Materials
 - Shared By: 
-- Description: Name of the Material used by the Factory. It should contain a succint name to clearly identify the Material referenced.
+- Description: Name of the Material used by the Factory. It should be used to reference the material when ordering from the Supplier.
 
 ## Physical Elements
 

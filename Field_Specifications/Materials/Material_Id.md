@@ -5,7 +5,7 @@
 - Field Name: Material ID
 - Parent Table: Materials
 - Shared By: Models Material List, Inventory
-- Description: An Numeric Code to Uniquely identify every material used at the Factory.
+- Description: An Numeric Code to Uniquely identify every material used by the Factory.
 
 ## Physical Elements
 

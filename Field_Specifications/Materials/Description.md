@@ -5,7 +5,7 @@
 - Field Name: Description
 - Parent Table: Materials
 - Shared By: 
-- Description: Further description of the Material used by the Factory. It should include specific details of the material or of it's fabrication process.
+- Description: Further description of the Material used by the Factory. It should include specific details of the material, such as specific compositions or additional crafting process.
 
 ## Physical Elements
 

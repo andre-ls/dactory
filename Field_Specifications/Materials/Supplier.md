@@ -5,7 +5,7 @@
 - Field Name: Supplier ID
 - Parent Table: Materials
 - Shared By: Suppliers
-- Description: An Numeric Code to identify the Supplier of the Material.
+- Description: An Numeric Code to identify the Supplier of the Material. It should contain the according Supplier ID from the Suppliers Tables.
 
 ## Physical Elements
 
