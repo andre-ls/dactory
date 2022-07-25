@@ -5,7 +5,7 @@
 - Field Name: Name
 - Parent Table: Production Steps
 - Shared By: 
-- Description: Name of the Production Step.
+- Description: Name of the Production Step. It should be the main way of referencing each Production Step on management and Customer Reports.
 
 ## Physical Elements
 

@@ -22,5 +22,5 @@
 - Null Support: No Nulls
 - Values Entered By: User
 - Required Value: Yes
-- Range of Values: 
+- Range of Values: Greater than 1.
 - Edit Rule: Enter Now, Edits Allowed
