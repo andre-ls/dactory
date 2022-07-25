@@ -5,7 +5,7 @@
 - Field Name: Name
 - Parent Table: Guitar Colors
 - Shared By: 
-- Description: Name of the Guitar Body's Color.
+- Description: Name of the Guitar Body's Color. It should be the main way of referencing Body Color's, specially outside the Factory.
 
 ## Physical Elements
 
