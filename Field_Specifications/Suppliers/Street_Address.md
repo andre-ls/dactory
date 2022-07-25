@@ -5,7 +5,7 @@
 - Field Name: Street Address
 - Parent Table: Suppliers
 - Shared By: 
-- Description: Street Address of the Supplier. It should be used, together with other Address Fields, to collect the ordered materials from their Factories or Distributors.
+- Description: Street Address of the Supplier. It should be used, together with other Address Fields, to order the transport of the supplied materials to the Factory.
 
 ## Physical Elements
 

@@ -5,7 +5,7 @@
 - Field Name: City
 - Parent Table: Suppliers
 - Shared By: 
-- Description: Name of the City where the Supplier is located. It should be used, together with other Address Fields, to collect the ordered materials from their Factories or Distributors.
+- Description: Name of the City where the Supplier is located. It should be used, together with other Address Fields, to order the transport of the supplied materials to the Factory.
 
 ## Physical Elements
 

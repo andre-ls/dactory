@@ -5,7 +5,7 @@
 - Field Name: Email
 - Parent Table: Suppliers
 - Shared By: 
-- Description: Contact Email of the Supplier. It should be used to make contact to order new materials or to inform any useful information.
+- Description: Contact Email of the Supplier. It should be used to make contact to order new materials.
 
 ## Physical Elements
 

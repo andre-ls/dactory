@@ -5,7 +5,7 @@
 - Field Name: Phone Number
 - Parent Table: Suppliers
 - Shared By: 
-- Description: Contact Phone Number of the Supplier. It should be used to make contact via Phone Calls to order new materials or to inform any useful information.
+- Description: Contact Phone Number of the Supplier. It should be used to make contact via Phone Calls to order new materials.
 
 ## Physical Elements
 

@@ -5,7 +5,7 @@
 - Field Name: Status
 - Parent Table: Suppliers
 - Shared By: 
-- Description: Status of the Supplier, indicating whether it's materials are being used by the Factory att the moment or not.
+- Description: Status of the Supplier, indicating whether it's materials are being used by the Factory at the moment or not.
 
 ## Physical Elements
 

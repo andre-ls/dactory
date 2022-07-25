@@ -5,7 +5,7 @@
 - Field Name: Zip Code
 - Parent Table: Suppliers
 - Shared By: 
-- Description: Zip Code of the Supplier's Address. It should be used, together with other Address Fields, to collect the ordered materials from their Factories or Distributors.
+- Description: Zip Code of the Supplier's Address. It should be used, together with other Address Fields, to order the transport of the supplied materials to the Factory.
 
 ## Physical Elements
 

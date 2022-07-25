@@ -5,7 +5,7 @@
 - Field Name: Name
 - Parent Table: Suppliers
 - Shared By: 
-- Description: Name of the Supplier. It should be used to reference the Supplier in any Communication form used in the Factory, such as Emails, Phone Calls, and SMS's.
+- Description: Name of the Supplier. It should be used to reference the Supplier in any Communication form used in the Factory.
 
 ## Physical Elements
 
