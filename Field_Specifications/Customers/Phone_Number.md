@@ -5,7 +5,7 @@
 - Field Name: Phone Number
 - Parent Table: Customer
 - Shared By: 
-- Description: Phone Number of the Customer. It should be used to make contact via Phone Calls and SMS's to inform the Customer about their orders, promotions and the launch of new Guitars.
+- Description: Phone Number of the Customer. It should be used to make contact via Phone Calls to inform customers about their orders when needed.
 
 ## Physical Elements
 

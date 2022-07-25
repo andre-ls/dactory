@@ -5,7 +5,7 @@
 - Field Name: Email
 - Parent Table: Customer
 - Shared By: 
-- Description: Email of the Customer. It should be used to make contact to inform the Customer about their orders, promotions and the launch of new Guitars.
+- Description: Email of the Customer. It should be used to make contact to inform the Customers about their orders when needed.
 
 ## Physical Elements
 
