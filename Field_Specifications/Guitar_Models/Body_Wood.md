@@ -5,7 +5,7 @@
 - Field Name: Body Wood
 - Parent Table: Guitar Models
 - Shared By: 
-- Description: Wood Type used to craft the Guitar Model's Body.
+- Description: Wood Type used to craft the Guitar Model's Body. This definition is directly used on the crafting process, so changes should be made with proper management.
 
 ## Physical Elements
 

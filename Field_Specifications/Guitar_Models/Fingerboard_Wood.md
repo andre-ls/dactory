@@ -5,7 +5,7 @@
 - Field Name: Fingerboard Wood
 - Parent Table: Guitar Models
 - Shared By: 
-- Description: Wood Type used to craft the Guitar Model's Fingerboard.
+- Description: Wood Type used to craft the Guitar Model's Fingerboard. This definition is directly used on the crafting process, so changes should be made with proper management.
 
 ## Physical Elements
 

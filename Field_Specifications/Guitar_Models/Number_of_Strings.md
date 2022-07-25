@@ -5,7 +5,7 @@
 - Field Name: Number of Strings
 - Parent Table: Guitar Models
 - Shared By: 
-- Description: The Number of Strings of the Guitar Model.
+- Description: The Number of Strings of the Guitar Model. This definition is directly used on the crafting process, so changes should be made with proper management.
 
 ## Physical Elements
 

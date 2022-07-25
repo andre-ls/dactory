@@ -5,7 +5,7 @@
 - Field Name: Neck Wood
 - Parent Table: Guitar Models
 - Shared By: 
-- Description: Wood Type used to craft the Guitar Model's Neck.
+- Description: Wood Type used to craft the Guitar Model's Neck. This definition is directly used on the crafting process, so changes should be made with proper management.
 
 ## Physical Elements
 

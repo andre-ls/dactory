@@ -5,7 +5,7 @@
 - Field Name: Type
 - Parent Table: Guitar Models
 - Shared By: 
-- Description: Guitar Type of the Model.
+- Description: Guitar Type of the Model, indicating whether the Model is an Electric, Acoustic or Bass Guitar.
 
 ## Physical Elements
 
