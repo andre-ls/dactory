@@ -5,7 +5,7 @@
 - Field Name: Email
 - Parent Table: Employees
 - Shared By: 
-- Description: Contact Email of the Employee. It should be used to make contact about relevant information, such about Payment and Factory Special Operation Times.
+- Description: Contact Email of the Employee. It should be used to make contact about relevant information, such about Payment and Factory Special Operating Regime.
 
 ## Physical Elements
 

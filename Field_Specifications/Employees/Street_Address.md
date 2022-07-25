@@ -5,7 +5,7 @@
 - Field Name: Street Address
 - Parent Table: Employees
 - Shared By: 
-- Description: Street Address of the Employee. It should be used, together with other Address Fields, to send any necessary Documents or Promotional Seasonal Prizes. 
+- Description: Street Address of the Employee. It should be used, together with other Address Fields, to send any necessary Items, such as Documents and Equipments.
 
 ## Physical Elements
 

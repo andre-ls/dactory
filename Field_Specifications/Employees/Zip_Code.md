@@ -5,7 +5,7 @@
 - Field Name: Zip Code
 - Parent Table: Employees
 - Shared By: 
-- Description: Zip Code of the Employee's Address. It should be used, together with other Address Fields, to send any necessary Documents or Promotional Seasonal Prizes. 
+- Description: Zip Code of the Employee's Address. It should be used, together with other Address Fields, to send any necessary items, such as Documents and Equipments.
 
 ## Physical Elements
 

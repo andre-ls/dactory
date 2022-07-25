@@ -5,7 +5,7 @@
 - Field Name: State
 - Parent Table: Employees
 - Shared By: 
-- Description: Name of the State where the Employee is resident. It should be used, together with other Address Fields, to send any necessary Documents or Promotional Seasonal Prizes. 
+- Description: Name of the State where the Employee is resident. It should be used, together with other Address Fields, to send any necessary items such as Documents and Equipments.
 
 ## Physical Elements
 

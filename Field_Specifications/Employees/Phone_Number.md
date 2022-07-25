@@ -5,7 +5,7 @@
 - Field Name: Phone Number
 - Parent Table: Employees
 - Shared By: 
-- Description: Contact Phone Number of the Employee. It should be used to make contact via Phone Calls or SMS about relevant information, such about Payment and Factory Special Operation Times.
+- Description: Contact Phone Number of the Employee. It should be used to make contact via Phone Calls or SMS about relevant information, such about Payment and Factory Special Operating Regime.
 
 ## Physical Elements
 

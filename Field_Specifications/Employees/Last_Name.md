@@ -3,9 +3,9 @@
 ## General Elements
 
 - Field Name: Last Name
-- Parent Table: Suppliers
+- Parent Table: Employees
 - Shared By: 
-- Description: Last Name of the Supplier. It should be used to reference the Supplier in any Communication form used in the Factory, such as Emails, Phone Calls, and SMS's.
+- Description: Last Name of the Employee. It should be used to reference the Employee in any Communication form used in the Factory, such as Emails and Phone Calls.
 
 ## Physical Elements
 
