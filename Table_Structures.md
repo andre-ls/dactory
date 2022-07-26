@@ -47,12 +47,12 @@
 - Suppliers
     - Supplier ID (Primary Key)
     - Name
+    - Phone Number
+    - Email
     - Street Address
     - City
     - State 
     - Zip Code
-    - Phone Number
-    - Email
     - Status
 
 - Materials
@@ -72,11 +72,11 @@
     - First Name
     - Last Name
     - Phone Number
+    - Email
     - Street Address
     - City
     - State 
     - Zip Code
-    - Email
     - Production Step
     - Status
     
