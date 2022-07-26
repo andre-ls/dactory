@@ -1,7 +1,7 @@
 # Table Structures
 
 - Orders
-    - Order Serial Number (Primary Key)
+    - Serial Number (Primary Key)
     - Guitar Model
     - Guitar Color
     - Shield Color
