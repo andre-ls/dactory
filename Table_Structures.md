@@ -15,7 +15,7 @@
     - Body Wood
     - Neck Wood
     - Fingerboard Wood
-    - Number of Strings
+    - Strings Number
     - Status
 
 - Guitar Colors
