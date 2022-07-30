@@ -8,6 +8,14 @@
     - Type: Data
     - Description: All the Guitar Models crafted by the Factory at any point in time. Not only the table keep a centralized register of all important details of each model, but also, if combined with other tables, can allow specific calculations over the Inventory.
 
+## Guitar Colors
+    - Type: Subset
+    - Description: Centralized reference of all the colors available for the Body of the Ordered Guitars. This information was stored in a separate table to allow easy insertions of new colors in the future. 
+
+## Shield Colors
+    - Type: Subset
+    - Description: Centralized Reference of all the colors available for the Shield of the Ordered Guitars. This information was stored in a separate table to allow easy insertions of new colors in the future. 
+
 ## Models Material List
     - Type: Subset
     - Description: All the material list and their specific quantities to craft a specific model at the Factory. This information is important to document and manage the amount of material being used to craft each model and help to keep the Inventory properly supplied to handle the production.
