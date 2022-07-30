@@ -1,8 +1,10 @@
 # Mission Statement and Objectives
 
+The Mission Statement declares the specific purpose of the database in general terms and is defined at the beggining of the database design process to keep a focus on the design efforts. The Mission Objectives are a couple of statements that represent the general tasks supported by the data maintaned in the database. 
+
 ## Mission Statement
 
-The purpose of the Fender Factory database is to gather data of all the guitar production process and supply relevant information for an efficient management of the production line.
+The purpose of the Guitar Factory database is to gather data of all the guitar production process and supply relevant information for an efficient management of the production line.
 
 ## Mission Objectives
 

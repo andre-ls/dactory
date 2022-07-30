@@ -1,5 +1,7 @@
 # Table Structures
 
+The Table Structures contains a listing of the Database Project Tables, together with its respective fields. Between them, the Primary Keys are properly identified.
+
 - Orders
     - Serial Number (Primary Key)
     - Guitar Model

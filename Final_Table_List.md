@@ -1,5 +1,7 @@
 # Final Table List
 
+The Final Table List contains a listing of all the Tables of the Database Project, followed by their Type and Description. On this project, only two Database types were used: *Data* Tables, which represents an important subject for the organization, and *Subset* Tables, which contains fields that are related to a particular data table and further descrives it in some specific manner.
+
 ## Orders
     - Type: Data
     - Description: All the orders being produced at the moment or that were crafted somewhere in the past. Keeping track of them is not only important for the production line management but also for future analytical needs of the production itself.
