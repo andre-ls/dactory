@@ -1,6 +1,6 @@
 # Final Table List
 
-The Final Table List contains a listing of all the Tables of the Database Project, followed by their Type and Description. On this project, only two Database types were used: *Data* Tables, which represents an important subject for the organization, and *Subset* Tables, which contains fields that are related to a particular data table and further descrives it in some specific manner.
+The Final Table List contains a listing of all the Tables of the Database Project, followed by their Type and Description. On this project, three Database types were used: *Data* Tables, which represents an important subject for the organization, *Subset* Tables, which contains fields that are related to a particular data table and further descrives it in some specific manner, and *Linking* Tables, which are used to logically implement a Many-to-Many Relationship between two tables.
 
 ## Orders
     - Type: Data
@@ -21,6 +21,10 @@ The Final Table List contains a listing of all the Tables of the Database Projec
 ## Models Material List
     - Type: Subset
     - Description: All the material list and their specific quantities to craft a specific model at the Factory. This information is important to document and manage the amount of material being used to craft each model and help to keep the Inventory properly supplied to handle the production.
+
+## Order Production Steps
+    - Type: Linking
+    - Description: Reference of all Production Steps an Order have passed and the timestamps when that happened. It's used as a Linking Table for the Many-to-Many relationship between the Production Steps and the Orders tables.
 
 ## Customers
     - Type: Data

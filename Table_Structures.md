@@ -35,6 +35,12 @@ The Table Structures contains a listing of the Database Project Tables, together
     - Material ID (Composite Primary Key)
     - Quantity
 
+- Order Production Steps
+    - Serial Number(Composite Primary Key)
+    - Step
+    - Timestamp
+    - Current Step
+
 - Customers
     - Customer ID (Primary Key)
     - First Name

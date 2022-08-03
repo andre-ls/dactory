@@ -4,7 +4,7 @@
 
 - Field Name: Step ID
 - Parent Table: Production Steps
-- Shared By: Employees
+- Shared By: Employees, Order Production Steps
 - Description: An Numeric Code to Uniquely identify every Production Step of the Factory's Production Line.
 
 ## Physical Elements
