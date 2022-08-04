@@ -1,4 +1,9 @@
 # Guitar Factory Database Design Project
+
+<p align="center">
+ <img src='https://cdn.pixabay.com/photo/2016/03/26/22/36/man-1281642_960_720.jpg' class="center" height="500">
+</p>
+
 Portfolio Project containing a Database Project designed for a Guitar Factory, following the guidelines of the book "Database Design for Mere Mortals", by Michael J. Hernandez.
 
 Below, the main parts of the Projects are briefly described. To further access each one, just click on the Title of the desired part.
